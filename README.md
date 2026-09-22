@@ -64,4 +64,5 @@ Claim the same name on the other networks the checkers cover, then set up a post
 
 A username checker solves a ten-minute problem well: pick a name, confirm it is free everywhere that matters, register it. The longer problem is keeping the resulting accounts alive on more than one network without opening five tabs a day. If that is the stage you are at, [Try Supapush - schedule and queue posts across 10 networks from one composer](https://supapush.com?utm_source=github&utm_medium=ugc&utm_campaign=instagram-username-checker&utm_content=readme-top&utm_term=tier-r) - one composer, a queue, a calendar and analytics across all the accounts you just created.
 
+
 _Last reviewed: 2026-09-22_
